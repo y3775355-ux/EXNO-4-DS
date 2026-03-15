@@ -257,6 +257,3 @@ selected_features=x.columns[sfm.get_support()]
 # RESULT:
        thus  performed Feature Scaling and Feature Selection process and save the
 data to a file.
-
-# RESULT:
-       # INCLUDE YOUR RESULT HERE
